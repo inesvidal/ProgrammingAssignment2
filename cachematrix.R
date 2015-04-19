@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## These functions demonstrate how to use scoping to cache potentially 
+## time-consuming computations
 
 ## This function creates a special "matrix" object that can cache its inverse.
 ## The variable 'inv' is used to keep the inverse, its value is NULL until the
